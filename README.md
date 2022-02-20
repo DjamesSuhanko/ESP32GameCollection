@@ -17,3 +17,14 @@ This game is very much similar to Nokia's Snake game, but the original game was 
 A few decades ago, alien games in old electronic machines was the most! Well, this little game is more than you could see in this very old game machines, because ESP32 is many times powerful than this old machines.
 [In this video](https://youtu.be/6lvukn5qYNY?sub_confirmation=1) you can see my wife playing (she is a really bad gamer, but is a good wife anyway).
 ![AlienAttack](https://i0.wp.com/www.dobitaobyte.com.br/wp-content/uploads/2022/01/jogos-esp32-alien-dobitaobyte.jpg?w=300&ssl=1)
+
+### [__Tetris__](https://www.dobitaobyte.com.br/jogos-no-esp32-04-tetris/)
+Are there someone which doesn't know this game? I think there aren't. But the amazing thing is this port to ESP32. Well, I did a little change to use only the T-Display's built-in buttons, so, the pieces will goes down slowly, without option to force their fall, but we don't need additional hardware.
+![Tetris](https://i0.wp.com/www.dobitaobyte.com.br/wp-content/uploads/2022/01/jogos-esp32-tetris-dobitaobyte.jpg?w=300&ssl=1)
+
+### [__TicTacToe__](https://www.dobitaobyte.com.br/jogos-no-esp32-05-tictactoe/)
+No comments about the game. Probably is the simplest game created in the world and all children knows this game.
+In this version, I added some "intelligence", so you can play against ESP32. Yes, there are some bugs, but done is better then don't.
+![TicTacToe](https://i0.wp.com/www.dobitaobyte.com.br/wp-content/uploads/2022/02/jogos-esp32-dobtaobyte-tictactoe.jpg?w=300&ssl=1)
+
+_Future games will be added here, so follow [Do bit ao Byte in Youtube](https://youtube.com/dobitaobytebrasil) and stay in about the news._
