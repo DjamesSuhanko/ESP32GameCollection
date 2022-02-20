@@ -27,4 +27,8 @@ No comments about the game. Probably is the simplest game created in the world a
 In this version, I added some "intelligence", so you can play against ESP32. Yes, there are some bugs, but done is better then don't.
 ![TicTacToe](https://i0.wp.com/www.dobitaobyte.com.br/wp-content/uploads/2022/02/jogos-esp32-dobtaobyte-tictactoe.jpg?w=300&ssl=1)
 
+### [__Traffic__](https://www.dobitaobyte.com.br/jogos-no-esp32-06-traffic/)
+ Have you played Enduro? Well, it's not Enduro, but made me remember that. And   there is some similarity with Alien Attack too, but without shot and less stress.
+![Traffic](https://i0.wp.com/www.dobitaobyte.com.br/wp-content/uploads/2022/02/jogos-esp32-traffic.jpg?w=300&ssl=1)
+
 _Future games will be added here, so follow [Do bit ao Byte in Youtube](https://youtube.com/dobitaobytebrasil) and stay in about the news._
